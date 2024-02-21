@@ -1,0 +1,14 @@
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+c:\Users\gatanacio\OneDrive - Avit Group BV\Documenten\Avit Projects\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll

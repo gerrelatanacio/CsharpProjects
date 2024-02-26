@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gatanacio\\OneDrive - Avit Group BV\\Documenten\\Avit Projects\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/TestProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gatanacio\\OneDrive - Avit Group BV\\Documenten\\Avit Projects\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gatanacio\\OneDrive - Avit Group BV\\Documenten\\Avit Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "C:\\Users\\gatanacio\\OneDrive - Avit Group BV\\Documenten\\Avit Projects\\CsharpProjects\\TestProject\\TestProject.csproj",
-        "packagesPath": "C:\\Users\\gatanacio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gatanacio\\OneDrive - Avit Group BV\\Documenten\\Avit Projects\\CsharpProjects\\TestProject\\obj\\",
+        "projectPath": "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/TestProject.csproj",
+        "packagesPath": "/Users/gerrelatanacio/.nuget/packages/",
+        "outputPath": "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\gatanacio\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/gerrelatanacio/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

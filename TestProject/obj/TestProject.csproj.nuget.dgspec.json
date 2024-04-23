@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/TestProject.csproj": {}
+    "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/TestProject/TestProject.csproj": {}
   },
   "projects": {
-    "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/TestProject.csproj": {
+    "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/TestProject/TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/TestProject.csproj",
+        "projectUniqueName": "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/TestProject/TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/TestProject.csproj",
+        "projectPath": "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/TestProject/TestProject.csproj",
         "packagesPath": "/Users/gerrelatanacio/.nuget/packages/",
-        "outputPath": "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/TestProject/obj/",
+        "outputPath": "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/TestProject/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gerrelatanacio/.nuget/NuGet/NuGet.Config"

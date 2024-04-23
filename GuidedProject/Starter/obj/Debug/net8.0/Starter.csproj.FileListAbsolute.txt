@@ -13,3 +13,18 @@
 /Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
 /Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
 /Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.deps.json
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.runtimeconfig.json
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.dll
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/bin/Debug/net8.0/Starter.pdb
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfoInputs.cache
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.AssemblyInfo.cs
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.csproj.CoreCompileInputs.cache
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.dll
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/refint/Starter.dll
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
+/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/GuidedProject/Starter/Starter.csproj": {}
+    "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/Starter.csproj": {}
   },
   "projects": {
-    "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/GuidedProject/Starter/Starter.csproj": {
+    "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/GuidedProject/Starter/Starter.csproj",
+        "projectUniqueName": "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/GuidedProject/Starter/Starter.csproj",
+        "projectPath": "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/Starter.csproj",
         "packagesPath": "/Users/gerrelatanacio/.nuget/packages/",
-        "outputPath": "/Users/gerrelatanacio/Documents/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/",
+        "outputPath": "/Users/gerrelatanacio/Documents/Documents - Gerrel’s MacBook Pro/AvitProjects/CsharpProjects/GuidedProject/Starter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/gerrelatanacio/.nuget/NuGet/NuGet.Config"

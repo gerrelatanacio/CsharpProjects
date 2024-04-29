@@ -1,23 +1,33 @@
-﻿string customerName = "Ms. Barros";
+﻿string message = "Find what is (inside the parentheses)";
 
-string currentProduct = "Magic Yield";
-int currentShares = 2975000;
-decimal currentReturn = 0.1275m;
-decimal currentProfit = 55000000.0m;
+int openingPosition = message.IndexOf('(');
+int closingPosition = message.IndexOf(')');
 
-string newProduct = "Glorious Future";
-decimal newReturn = 0.13125m;
-decimal newProfit = 63000000.0m;
+openingPosition += 1;
 
-// Your logic here
+int length = closingPosition - openingPosition;
+Console.WriteLine(message.Substring(openingPosition, length));
 
-Console.WriteLine("Here's a quick comparison:\n");
+// string customerName = "Ms. Barros";
 
-string comparisonMessage = $"Dear {customerName},\nAs a customer of our {currentProduct} offering we are excited to tell you about a new financial product that would dramatically increase your return.\n\nCurrently, you own {currentShares:N2} shares at a return of {currentReturn:P2}.\n\nOur new product, {newProduct} offers a return of {newReturn:P2}. Given your current volume, your potential profit would be {newProfit:C}.\n\nHere's a quick comparison:\n\n{currentProduct}\t\t{currentReturn:P2}\t{currentProfit:C}\n\n{newProduct}\t\t{newReturn:P2}\t{newProfit:C}";
+// string currentProduct = "Magic Yield";
+// int currentShares = 2975000;
+// decimal currentReturn = 0.1275m;
+// decimal currentProfit = 55000000.0m;
 
-// Your logic here
+// string newProduct = "Glorious Future";
+// decimal newReturn = 0.13125m;
+// decimal newProfit = 63000000.0m;
 
-Console.WriteLine(comparisonMessage);
+// // Your logic here
+
+// Console.WriteLine("Here's a quick comparison:\n");
+
+// string comparisonMessage = $"Dear {customerName},\nAs a customer of our {currentProduct} offering we are excited to tell you about a new financial product that would dramatically increase your return.\n\nCurrently, you own {currentShares:N2} shares at a return of {currentReturn:P2}.\n\nOur new product, {newProduct} offers a return of {newReturn:P2}. Given your current volume, your potential profit would be {newProfit:C}.\n\nHere's a quick comparison:\n\n{currentProduct}\t\t{currentReturn:P2}\t{currentProfit:C}\n\n{newProduct}\t\t{newReturn:P2}\t{newProfit:C}";
+
+// // Your logic here
+
+// Console.WriteLine(comparisonMessage);
 
 // string first = "Hello";
 // string second = "World";
